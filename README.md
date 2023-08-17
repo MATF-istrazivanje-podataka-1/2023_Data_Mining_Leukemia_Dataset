@@ -11,8 +11,8 @@ __*Osnovne informacije i obradjene teme:*__
 
 Koriscen dataset se moze naci na: https://www.kaggle.com/datasets/brunogrisci/leukemia-gene-expression-cumida?resource=download
 
-Autor: Velickovic Bojan
-Profesor: prof. dr. Nenad Mitic
+Autor: Velickovic Bojan,
+Profesor: prof. dr. Nenad Mitic,
 Asistent: Stefan Kapunac
 
 
@@ -29,6 +29,6 @@ __*Basic information and topics covered:*__
 
   Used dataset can be found here: https://www.kaggle.com/datasets/brunogrisci/leukemia-gene-expression-cumida?resource=download
 
-  Author: Velickovic Bojan
-  Professor: Prof. Dr. Nenad Mitic
+  Author: Velickovic Bojan,
+  Professor: Prof. Dr. Nenad Mitic,
   Assistant: Stefan Kapunac
